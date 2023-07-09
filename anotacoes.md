@@ -152,8 +152,15 @@ Site GPTW
 
 Essa é a hora de aplicar para as vagas. Não é só duas vagas é para 10, 20, 30, 50 vagas. Sem desânimo!
 
+Esse ciclo vai te dar experiência e confiança e logo você vai conseguir o seu emprego de programação.
+
+Todo começo dá medo, isso é fato! Mas tem pessoas para conhecer do mesmo jeito que você está fazendo.
 
 Você pode mudar a sua vida com programação. Mas precisa percorrer o caminho, ter foco e ânimo.
+
+Tenha comprometimento com seus estudos.
+
+<hr>
 
 # 08/07/23 - LIVE DO PROJETO 3 - A MAGIA DO JAVASCRIPT - FINALIZANDO O PROJETO E ADICIONANDO AO GITHUB
 
