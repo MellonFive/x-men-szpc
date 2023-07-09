@@ -28,6 +28,11 @@ body::before {
   justify-content: center;
 }
 
+.cabecalho .logo {
+  height: 100px;
+  margin-top: 10px;
+}
+
 .selecao-de-personagens {
   display: flex;
   align-items: center;
